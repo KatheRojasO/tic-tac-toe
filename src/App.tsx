@@ -1,7 +1,7 @@
 import './assets/styles/styles.css'
-import { Square } from './assets/components/Square'
+import { Board } from './assets/components/Board'
 
 export function App() {
 
-  return(<Square />)
+  return(<Board />)
 }

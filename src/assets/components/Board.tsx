@@ -1,4 +1,4 @@
-export function Square() {
+export function Board() {
   return (
     <>
       <div className="board-row">
